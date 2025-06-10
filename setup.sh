@@ -23,7 +23,7 @@ ln -s $SCRIPT_DIR/config/nvim ~/.config/nvim
 
 
 git clone git@github.com:gpakosz/.tmux.git $SCRIPT_DIR/submodules/oh-my-tmux
-ln -s $SCRIPT_DIR/submodules/oh-my-tmux/tmux.conf $SCRIPT_DIR/config/tmux/tmux.conf
+ln -s $SCRIPT_DIR/submodules/oh-my-tmux/.tmux.conf $SCRIPT_DIR/config/tmux/tmux.conf
 ln -s $SCRIPT_DIR/config/tmux ~/.config/tmux
 
 
