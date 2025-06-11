@@ -11,6 +11,7 @@ rm -rf ~/.config/tmux
 rm -rf ~/.config/nvim
 rm -rf ~/.config/oh-my-zsh
 rm -rf ~/.zshrc
+rm -rf ~/.p10k.zsh
 rm -rf $SCRIPT_DIR/submodules
 rm -rf $SCRIPT_DIR/config/tmux/tmux.conf
 rm -rf $SCRIPT_DIR/config/oh-my-zsh
